@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme_banner.svg" alt="FIFA World Cup 2026 — Power BI Analytics" width="100%">
+  <img src="./assets/banner.png" alt="FIFA World Cup 2026 — Power BI Analytics" width="100%">
 </p>
 
 <p align="center">
