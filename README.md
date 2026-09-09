@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="./assets/screenshots/logo2026.png" width="90" alt="FIFA World Cup 2026 Logo">
-</p>
 
-# 🏆 FIFA World Cup 2026 — Power BI Analytics
+
+# <img src="./assets/screenshots/logo2026.png" width="32" style="vertical-align: middle;"> FIFA World Cup 2026 — Power BI Analytics
 
 <p align="center">
   <img src="./assets/banner.png" alt="FIFA World Cup 2026 — Power BI Analytics" width="100%">
