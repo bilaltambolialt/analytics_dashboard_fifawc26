@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="./assets/screenshots/logo2026.png" width="90" alt="FIFA World Cup 2026 Logo">
+</p>
+
+# 🏆 FIFA World Cup 2026 — Power BI Analytics
+
+<p align="center">
   <img src="./assets/banner.png" alt="FIFA World Cup 2026 — Power BI Analytics" width="100%">
 </p>
 
@@ -8,8 +14,6 @@
   <img src="https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle Dataset">
   <img src="https://img.shields.io/badge/Status-Complete-c9a227?style=flat" alt="Status">
 </p>
-
-# 🏆 FIFA World Cup 2026 — Power BI Analytics
 
 An end-to-end Power BI portfolio project built on the [FIFA World Cup 2026 Dataset](https://www.kaggle.com/datasets/mominullptr/fifa-world-cup-2026-dataset) — covering the full 48-team tournament from group stage through the Final, with a 9-table relational data model, custom DAX measures, and a 6-page interactive report.
 
@@ -25,6 +29,28 @@ An end-to-end Power BI portfolio project built on the [FIFA World Cup 2026 Datas
 | **Player Analysis** | Top scorers & assists, minutes played, an Age vs. Market Value vs. Goals bubble map |
 | **Match & Discipline** | Expected Goals (xG) vs. actual goals per team, fouls-per-match trend across tournament stages |
 | **Stage and Geo Distribution** | Decomposition Tree — drill into what's driving tournament goals by confederation, stage, and team |
+
+---
+
+## 📸 Screenshots
+
+### Home / Landing
+<img src="./assets/screenshots/LandingPage.png" width="100%" alt="Landing page">
+
+### Dashboard
+<img src="./assets/screenshots/TournamentDashboard - 2026.png" width="100%" alt="Dashboard page">
+
+### Team Performance
+<img src="./assets/screenshots/TeamPerformance.png" width="100%" alt="Team Performance page">
+
+### Player Analysis
+<img src="./assets/screenshots/PlayerAnalysis.png" width="100%" alt="Player Analysis page">
+
+### Match & Discipline
+<img src="./assets/screenshots/MatchDiscipline.png" width="100%" alt="Match & Discipline page">
+
+### Stage and Geo Distribution
+<img src="./assets/screenshots/StageGeoDistribution.png" width="100%" alt="Stage and Geo Distribution page">
 
 ---
 
@@ -89,12 +115,18 @@ Dark navy/teal theme with gold accent, built to feel like a broadcast-graphics p
 ## 📁 Files in this Repo
 
 ```
-FIFA-World-Cup-2026-PowerBI/
+analytics_dashboard_fifawc26/
 ├── FIFA_WC2026_Dashboard.pbix     # Main Power BI report
-├── FIFA_WC2026_PowerBI_Guide.md   # Full build guide (cleaning, model, DAX, page-by-page steps)
 ├── assets/
-│   ├── readme_banner.svg
-│   └── screenshots/               # Add page screenshots here
+│   ├── banner.png
+│   └── screenshots/
+│       ├── logo2026.png
+│       ├── LandingPage.png
+│       ├── TournamentDashboard - 2026.png
+│       ├── TeamPerformance.png
+│       ├── PlayerAnalysis.png
+│       ├── MatchDiscipline.png
+│       └── StageGeoDistribution.png
 └── README.md
 ```
 
@@ -110,4 +142,8 @@ FIFA-World-Cup-2026-PowerBI/
 
 ---
 
-<p align="center"><i>Built as a Power BI / data analytics portfolio project.</i></p>
+<p align="center">
+<b>Bilal Tamboli</b><br>
+Created as a personal data analytics portfolio project.<br>
+© 2026 Bilal Tamboli. All rights reserved.
+</p>
